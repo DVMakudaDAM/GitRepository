@@ -18,6 +18,7 @@ public class HolaMundoAquiEstoy {
         // TODO code application logic here
         
         System.out.println("Soy el principe de las espinas");
+        System.out.println("el hombre que todo lo ha visto");
     }
     
 }
